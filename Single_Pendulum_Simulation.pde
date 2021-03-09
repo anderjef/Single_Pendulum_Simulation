@@ -1,6 +1,4 @@
 //Jeffrey Andersen
-//started 02/21/2021
-//inspiration: https://www.youtube.com/watch?v=NBWMtlbbOag
 
 float gravityMagnitude = random(2, 8);
 float frictionMultiplier = 0.9999999;

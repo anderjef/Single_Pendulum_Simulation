@@ -1,3 +1,5 @@
+//Jeffrey Andersen
+
 class Pendulum {
   float armAngle;
   float angularVelocity = 0;

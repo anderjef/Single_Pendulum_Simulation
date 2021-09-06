@@ -1,4 +1,4 @@
-# Lorenz_Attractors
+# Single Pendulum Simulation
 ### Copyright
 (c) © 2021 Jeffrey Andersen
 

@@ -7,7 +7,7 @@ Pendulum p;
 
 void setup() {
   size(800, 800);
-  float maxBobRadius = sqrt(width * width + height * height) / 8;
+  float maxBobRadius = sqrt(width * width + height * height) / 16;
   float actualBobRadius = random(maxBobRadius / 4, maxBobRadius);
   p = new Pendulum(random(TWO_PI), random(actualBobRadius, height / 2 - actualBobRadius), width / 2, height / 2, actualBobRadius, gravityMagnitude);
   stroke(255);

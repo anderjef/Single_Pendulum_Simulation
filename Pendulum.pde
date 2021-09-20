@@ -33,6 +33,6 @@ class Pendulum {
   
   void show() {
     line(fulcrumPos.x, fulcrumPos.y, fulcrumPos.x + armLength * sin(armAngle), fulcrumPos.y + armLength * -cos(armAngle));
-    circle(bobPos.x, bobPos.y, bobRadius);
+    circle(bobPos.x, bobPos.y, bobRadius * 2);
   }
 }

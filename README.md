@@ -43,7 +43,7 @@ Current version: 0.1.0
 ## Installation
 
 - Download [ZIP](https://github.com/anderjef/Single_Pendulum_Simulation/archive/main.zip). Extract to a folder named Single_Pendulum_Simulation.
-- Download and install [Processing 3 or compatible](https://processing.org/). Please understand that Processing may have bugs of its own.
+- Download and install [Processing Processing 4.0 beta 1 or compatible](https://processing.org/download). Please understand that Processing may have bugs of its own.
 - Open any of the Processing Source Code files with the Processing IDE (PDE).
 
 ## Usage
